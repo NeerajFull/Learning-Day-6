@@ -8,7 +8,7 @@
    - https://www.youtube.com/watch?v=rIB-AxS0HlE&list=PLsJDkiWcHj5dUEU56XGIXrZU8pgRE5ksz&index=43
    - https://www.youtube.com/watch?v=emHb0Z86Dq8&list=PLsJDkiWcHj5dUEU56XGIXrZU8pgRE5ksz&index=46
   
-2. DSA questions
+2. ✅ DSA questions
    - https://leetcode.com/problems/first-missing-positive/
    - https://leetcode.com/problems/is-subsequence/description/
   
