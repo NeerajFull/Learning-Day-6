@@ -12,5 +12,5 @@
    - https://leetcode.com/problems/first-missing-positive/
    - https://leetcode.com/problems/is-subsequence/description/
   
-3. Core JavaScript
+3. ✅ Core JavaScript
    - https://www.youtube.com/watch?v=5ycDIPc-sc4&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=13
